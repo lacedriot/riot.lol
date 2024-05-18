@@ -1,0 +1,2 @@
+_github-pages-challenge-lacedriot.riot.lol
+1d147d3c12936d4c8d502e22a7e1c1
